@@ -6,7 +6,7 @@
 
 ----
 
-**Link a guia del proyecto:** 
+**Link a guia del proyecto:** https://docs.google.com/document/d/1jmUs2T4E5qZndNxFvFz_kWWFQN-aOz5it5NREUWYqZ0/edit?usp=sharing 
 
 **Consigna:** 
 
