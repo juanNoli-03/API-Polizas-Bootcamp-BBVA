@@ -56,7 +56,6 @@ La aplicación deberá permitir las siguientes operaciones:
   ➜ Descripción: Este endpoint permitirá a los usuarios eliminar una póliza de seguro existente identificada por su ID.
  
   ----
-  
 **⚙️Requerimientos técnicos:**
   
   ✓ Lenguaje de Programación: Utilizar Java como lenguaje de programación principal para el desarrollo del backend.
@@ -122,4 +121,5 @@ La aplicación deberá permitir las siguientes operaciones:
   ● Utilizar logs para el seguimiento y depuración de la aplicación mediante SLF4J y Logback.
   
   ● Aplicar métricas y monitoreo utilizando herramientas como Spring Actuator.
+  
   ----
